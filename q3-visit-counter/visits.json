@@ -1,0 +1,10 @@
+{
+  "totalVisits": 13,
+  "routes": {
+    "/": 2,
+    "/home": 4,
+    "/favicon.ico": 1,
+    "/contact": 2,
+    "/about": 4
+  }
+}
